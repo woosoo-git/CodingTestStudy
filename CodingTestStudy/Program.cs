@@ -24,8 +24,8 @@ namespace CodingTestStudy
             //int[] array = new int[] { 4, 1, 2, 1};
             //Programmers_Q6.Solution(array, 4);
 
-            string[] array = new string[] { "hot", "dot", "dog", "lot", "log", "cog" };
-            Programmers_Q7.Solution("hit", "cog", array);
+            //string[] array = new string[] { "hot", "dot", "dog", "lot", "log", "cog" };
+            //Programmers_Q7.Solution("hit", "cog", array);
         }
 
         
