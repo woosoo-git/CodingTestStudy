@@ -26,6 +26,10 @@ namespace CodingTestStudy
 
             //string[] array = new string[] { "hot", "dot", "dog", "lot", "log", "cog" };
             //Programmers_Q7.Solution("hit", "cog", array);
+
+            int[] fees = new int[] { 120, 0, 60, 591 };
+            string[] records = new string[] { "16:00 3961 IN", "16:00 0202 IN", "18:00 3961 OUT", "18:00 0202 OUT", "23:58 3961 IN" };
+            Programmers_Q10.Solution(fees, records);
         }
 
         
