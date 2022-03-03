@@ -31,9 +31,9 @@ namespace CodingTestStudy
             //string[] records = new string[] { "16:00 3961 IN", "16:00 0202 IN", "18:00 3961 OUT", "18:00 0202 OUT", "23:58 3961 IN" };
             //Programmers_Q10.Solution(fees, records);
 
-            int[] progresses = new int[] { 95, 90, 99, 99, 80, 99 };
-            int[] speeds = new int[] { 1, 1, 1, 1, 1, 1 };
-            Programmers_Q11.Solution(progresses, speeds);
+            //int[] progresses = new int[] { 95, 90, 99, 99, 80, 99 };
+            //int[] speeds = new int[] { 1, 1, 1, 1, 1, 1 };
+            Programmers_Q11.Solution(6);
         }
 
         

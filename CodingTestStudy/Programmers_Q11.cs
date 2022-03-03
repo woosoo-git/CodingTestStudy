@@ -1,9 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace CodingTestStudy
 {
+    // 프로그래머스 기능개발
+    // https://programmers.co.kr/learn/courses/30/lessons/42586
+    // 솔루션
     public class Programmers_Q11
     {
         public static int[] Solution(int[] progresses, int[] speeds) // 나의 풀이
@@ -45,5 +49,7 @@ namespace CodingTestStudy
 
             return deployCount.ToArray();
         }
+
     }
+
 }
