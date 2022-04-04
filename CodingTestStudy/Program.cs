@@ -33,7 +33,14 @@ namespace CodingTestStudy
 
             //int[] progresses = new int[] { 95, 90, 99, 99, 80, 99 };
             //int[] speeds = new int[] { 1, 1, 1, 1, 1, 1 };
-            Programmers_Q11.Solution(6);
+
+            //int[] a = new int[] { -1, 0, 1 };
+            //int[] b = new int[] { 1, 0, -1 };
+            //Programmers_Q12.Solution(a, b);
+
+            //int[] citations = new int[] { 9, 7, 6, 2, 1 };
+            int[] citations = new int[] { 3, 0, 6, 1, 5 };
+            Programmers_Q13.Solution(citations);
         }
 
         
