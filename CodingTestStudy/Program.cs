@@ -38,9 +38,7 @@ namespace CodingTestStudy
             //int[] b = new int[] { 1, 0, -1 };
             //Programmers_Q12.Solution(a, b);
 
-            //int[] citations = new int[] { 9, 7, 6, 2, 1 };
-            int[] citations = new int[] { 3, 0, 6, 1, 5 };
-            Programmers_Q13.Solution(citations);
+            Programmers_Q13.Solution(6);
         }
 
         
